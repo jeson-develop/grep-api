@@ -1,0 +1,13 @@
+== README
+
+{<img src="https://travis-ci.org/atharvasystem/aureso_exercise.svg?branch=master" alt="Build Status" />}[https://travis-ci.org/atharvasystem/aureso_exercise]
+
+Rails 4.1 application
+
+Public API Interface responds to the following requests:
+
+1. [GET] models/:model_slug/model_types
+{<img src="https://raw.githubusercontent.com/atharvasystem/aureso_exercise/master/public/Screenshot_GET_API.png" alt="Screenshot for GET API" />}
+2. [POST] models/:model_slug/model_types_price/:model_type_slug
+{<img src="https://raw.githubusercontent.com/atharvasystem/aureso_exercise/master/public/Screenshot_POST_API.png" alt="Screenshot for POST API" />}
+

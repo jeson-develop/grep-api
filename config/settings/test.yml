@@ -1,0 +1,2 @@
+paperclip:
+  process_in_background: false

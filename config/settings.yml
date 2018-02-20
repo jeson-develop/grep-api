@@ -1,0 +1,13 @@
+pricing_policies:
+  flexible:
+    url: 'http://reuters.com'
+    word: 'a'
+    source_type: 'html'
+  fixed:
+    url: 'https://developer.github.com/v3/#http-redirects'
+    word: 'status'
+    source_type: 'html'
+  prestige:
+    url: 'http://www.yourlocalguardian.co.uk/sport/rugby/rss'
+    word: 'pubDate'
+    source_type: 'xml'
